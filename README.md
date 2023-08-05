@@ -28,5 +28,5 @@ Soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasi
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio)
 
 ## Contáctame
-- LinkedIn: (https://www.linkedin.com/in/vffer)
+- LinkedIn: [Valentín](https://www.linkedin.com/in/vffer)
 - Email: valenf57@gmail.com
