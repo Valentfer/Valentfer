@@ -1,9 +1,9 @@
 # Hola, soy Valentín 👋
 
-## Sobre mí
+## Sobre mí 👨‍💻 📚 ⚙️
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona el desarrollo de aplicaciones multiplataforma, seguridad, cloud, IoT... y es por esto por lo que siempre estoy en constante aprendizaje. 
 
-## Tecnologías
+## Tecnologías 💻 📱 🌐 🎮
 - Lenguajes: 
   [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin">](https://kotlinlang.org/)
   [<img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java" alt="Java">](https://www.oracle.com/java/technologies/)
@@ -30,10 +30,10 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-IntelliJ-red?style=flat-square&logo=intellij-idea" alt="IntelliJ">](https://www.jetbrains.com/idea/)
   [<img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio" alt="Visual Studio">](https://visualstudio.microsoft.com/)
 
-## Proyectos:
+## Proyectos: 🚀
 - [Ahora sí, Ahora No.](https://github.com/Valentfer/AhoraSiAhoraNo)
   
-## Contáctame
-- LinkedIn: [Valentín](https://www.linkedin.com/in/vffer)
-- Email: valenf57@gmail.com
+## Contáctame 
+- 🔗 - LinkedIn: [Valentín](https://www.linkedin.com/in/vffer)
+- 📧 - Email: valenf57@gmail.com
 
