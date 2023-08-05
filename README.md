@@ -1,7 +1,7 @@
 # Hola, soy Valentín 👋
 
 ## Sobre mí
-Soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona el desarrollo de aplicaciones multiplataforma, seguridad, cloud, IoT... y es por esto por lo que siempre estoy en constante aprendizaje. 
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona el desarrollo de aplicaciones multiplataforma, seguridad, cloud, IoT... y es por esto por lo que siempre estoy en constante aprendizaje. 
 
 ## Tecnologías
 - Lenguajes: 
@@ -16,7 +16,10 @@ Soy un Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasi
   [<img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL">](https://www.postgresql.org/)
   [<img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql" alt="MySQL">](https://www.mysql.com/)
   [<img src="https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite" alt="SQLite">](https://www.sqlite.org/index.html)
+
+- Persistencia:
   [<img src="https://img.shields.io/badge/-JPA-lightgrey?style=flat-square&logo=jpa" alt="JPA">](https://www.oracle.com/java/technologies/persistence-jpa.html)
+  [<img src="https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate" alt="Hibernate">](https://hibernate.org//)
 
 - Desarrollo de videojuegos:
   [<img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" alt="Unity">](https://unity.com/)
