@@ -35,6 +35,8 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 ## Proyectos: 🚀
 - [Ahora sí, Ahora No.](https://github.com/Valentfer/AhoraSiAhoraNo)
 - [AgendaSwift](https://github.com/Valentfer/AgendaSwift)
+- [securesp32](https://github.com/Valentfer/securesp32)
+- [GestiApp](https://github.com/Valentfer/ProyecInter)
   
 ## Contáctame 
 - 🔗 - LinkedIn: [Valentín](https://www.linkedin.com/in/vffer)
