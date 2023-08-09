@@ -31,7 +31,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio" alt="Visual Studio">](https://visualstudio.microsoft.com/)
   [<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode">](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
   [<img src="https://img.shields.io/badge/esp32-blue?style=flat-square&logo=esp32">](https://platformio.org/platforms/espressif32)
-  [<img src="https://img.shields.io/badge/PlatformIO-blue?style=flat-square&logo=platformio">](https://platformio.org/platforms/espressif32)
+  [![PlatformIO](https://img.shields.io/badge/PlatformIO-blue?style=flat-square&logo=platformio)](https://platformio.org/platforms/espressif32)
 
 
 ## Proyectos: 🚀
