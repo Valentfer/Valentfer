@@ -30,6 +30,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-IntelliJ-red?style=flat-square&logo=intellij-idea" alt="IntelliJ">](https://www.jetbrains.com/idea/)
   [<img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio" alt="Visual Studio">](https://visualstudio.microsoft.com/)
   [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode)](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
+  [![esp32](https://img.shields.io/badge/esp32-<COLOR>?style=flat-square&logo=esp32)](https://platformio.org/platforms/espressif32)
 
 
 ## Proyectos: 🚀
