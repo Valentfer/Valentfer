@@ -13,7 +13,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" alt="Python">](https://www.python.org/)
 
 - Bases de Datos:
-  [<img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL">](https://www.postgresql.org/)
+  [<img src="https://img.shields.io/badge/-PostgreSQL-lightblue?style=flat-square&logo=postgresql" alt="PostgreSQL">](https://www.postgresql.org/)
   [<img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql" alt="MySQL">](https://www.mysql.com/)
   [<img src="https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite" alt="SQLite">](https://www.sqlite.org/index.html)
 
@@ -27,9 +27,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 
 - IDE:
   [<img src="https://img.shields.io/badge/-Android%20Studio-grey?style=flat-square&logo=android-studio" alt="Android Studio">](https://developer.android.com/studio)
-  https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg
-  https://img.shields.io/badge/-IntelliJ-red?style=flat-square&logo=intellij-idea
-  [<img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ">](https://www.jetbrains.com/idea/)
+  [<img src="https://img.shields.io/badge/-IntelliJ-red?style=flat-square&logo=intellij-idea" alt="IntelliJ">](https://www.jetbrains.com/idea/)
   [<img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio" alt="Visual Studio">](https://visualstudio.microsoft.com/)
   [<img src="https://img.shields.io/badge/Xcode-grey?style=flat-square&logo=xcode">](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
   [<img src="https://img.shields.io/badge/esp32-blue?style=flat-square&logo=esp32">](https://platformio.org/platforms/espressif32)
