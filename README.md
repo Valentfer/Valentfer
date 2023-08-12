@@ -5,7 +5,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 
 ## Tecnologías 💻 📱 🌐 🎮
 - Lenguajes: 
-  [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin">](https://kotlinlang.org/)
+  [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin">](https://kotlinlang.org/)
   [<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40">](https://www.oracle.com/java/technologies/)
   [<img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift" alt="Swift">](https://swift.org/)
   [<img src="https://img.shields.io/badge/-C-lightgrey?style=flat-square&logo=c" alt="C">](https://www.iso.org/standard/74528.html)
@@ -29,7 +29,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio" alt="Android Studio">](https://developer.android.com/studio)
   [<img src="https://img.shields.io/badge/-IntelliJ-red?style=flat-square&logo=intellij-idea" alt="IntelliJ">](https://www.jetbrains.com/idea/)
   [<img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio" alt="Visual Studio">](https://visualstudio.microsoft.com/)
-  [<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode">](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
+  [<img src="https://img.shields.io/badge/Xcode-grey?style=flat-square&logo=xcode">](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
   [<img src="https://img.shields.io/badge/esp32-blue?style=flat-square&logo=esp32">](https://platformio.org/platforms/espressif32)
   [![PlatformIO](https://img.shields.io/badge/PlatformIO-blue?style=flat-square&logo=platformio)](https://platformio.org/platforms/espressif32)
 
