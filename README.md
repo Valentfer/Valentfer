@@ -5,7 +5,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 
 ## Tecnologías 💻 📱 🌐 🎮
 - Lenguajes: 
-  [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin" alt="Kotlin">](https://kotlinlang.org/)
+  [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin">](https://kotlinlang.org/)
   [<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40">](https://www.oracle.com/java/technologies/)
   [<img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift" alt="Swift">](https://swift.org/)
   [<img src="https://img.shields.io/badge/-C-lightgrey?style=flat-square&logo=c" alt="C">](https://www.iso.org/standard/74528.html)
