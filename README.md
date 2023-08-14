@@ -15,6 +15,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 - Bases de Datos:
   [<img src="https://img.shields.io/badge/-PostgreSQL-lightblue?style=flat-square&logo=postgresql" alt="PostgreSQL">](https://www.postgresql.org/)
   [<img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql" alt="MySQL">](https://www.mysql.com/)
+  [<img src="https://img.shields.io/badge/-SQL%20Server-blue?style=flat-square&logo=microsoft-sql-server" alt="SQL Server">](https://www.microsoft.com/en-us/sql-server/)
   [<img src="https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite" alt="SQLite">](https://www.sqlite.org/index.html)
 
 - Persistencia:
