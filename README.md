@@ -33,6 +33,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/Xcode-grey?style=flat-square&logo=xcode">](https://apps.apple.com/es/app/xcode/id497799835?mt=12)
   [<img src="https://img.shields.io/badge/esp32-blue?style=flat-square&logo=esp32">](https://platformio.org/platforms/espressif32)
   [![PlatformIO](https://img.shields.io/badge/PlatformIO-blue?style=flat-square&logo=platformio)](https://platformio.org/platforms/espressif32)
+  <a href="https://registry.platformio.org/libraries/epsilonrt/RadioHead"><img src="https://badges.registry.platformio.org/packages/epsilonrt/library/RadioHead.svg" alt="PlatformIO Registry" /></a>
 
 
 ## Proyectos: 🚀
