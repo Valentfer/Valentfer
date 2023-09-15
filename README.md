@@ -27,9 +27,9 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-Libgdx-red?style=flat-square&logo=libgdx" alt="Libgdx">](https://libgdx.badlogicgames.com/)
 
 - Cloud Deployer:
-  [<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" alt="AWS" width="40" height="40">](https://aws.amazon.com/)
-  [<img src="https://img.shields.io/badge/-AZ--104-black?style=flat-square&logo=microsoft-azure" alt="AZ-104" width="40" height="40">](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator?view=azure-2020-12)
-  [<img src="https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud" alt="Google Cloud" width="40" height="40">](https://cloud.google.com/)
+  [<img src="https://img.shields.io/badge/-AWS-lightbrown?style=flat-square&logo=amazon-aws" alt="AWS">](https://aws.amazon.com/)
+  [<img src="https://img.shields.io/badge/-AZ--104-blue?style=flat-square&logo=microsoft-azure" alt="AZ-104">](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator?view=azure-2020-12)
+  [<img src="https://img.shields.io/badge/-Google_Cloud-yellow?style=flat-square&logo=google-cloud" alt="Google Cloud">](https://cloud.google.com/)
 
 - IDE:
   [<img src="https://img.shields.io/badge/-Android%20Studio-grey?style=flat-square&logo=android-studio" alt="Android Studio">](https://developer.android.com/studio)
