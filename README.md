@@ -18,7 +18,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-SQL%20Server-blue?style=flat-square&logo=microsoft-sql-server" alt="SQL Server">](https://www.microsoft.com/en-us/sql-server/)
   [<img src="https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite" alt="SQLite">](https://www.sqlite.org/index.html)
 
-- Persistencia:
+- ORM:
   [<img src="https://img.shields.io/badge/-JPA-lightgrey?style=flat-square&logo=jpa" alt="JPA">](https://www.oracle.com/java/technologies/persistence-jpa.html)
   [<img src="https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate" alt="Hibernate">](https://hibernate.org//)
 
