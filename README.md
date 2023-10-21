@@ -30,8 +30,8 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws" alt="AWS">](https://aws.amazon.com/)
   [<img src="https://img.shields.io/badge/-AZ--104-blue?style=flat-square&logo=microsoft-azure" alt="AZ-104">](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator?view=azure-2020-12)
   [<img src="https://img.shields.io/badge/-Google_Cloud-yellow?style=flat-square&logo=google-cloud" alt="Google Cloud">](https://cloud.google.com/)
-  [<img src="https://www.vectorlogo.zone/logos/dialogflow/dialogflow-icon.svg" alt="Dialogflow">](https://dialogflow.cloud.google.com/)
-  [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">](https://firebase.google.com/)
+  [<img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=dialogflow" alt="Dialogflow">](https://dialogflow.cloud.google.com/)
+  [<img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" alt="Firebase">](https://firebase.google.com/)
 
 - IDE:
   [<img src="https://img.shields.io/badge/-Android%20Studio-grey?style=flat-square&logo=android-studio" alt="Android Studio">](https://developer.android.com/studio)
