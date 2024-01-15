@@ -21,6 +21,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 - ORM:
   [<img src="https://img.shields.io/badge/-JPA-lightgrey?style=flat-square&logo=jpa" alt="JPA">](https://www.oracle.com/java/technologies/persistence-jpa.html)
   [<img src="https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate" alt="Hibernate">](https://hibernate.org//)
+  <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring" alt="Spring">
 
 - Desarrollo de videojuegos:
   [<img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" alt="Unity">](https://unity.com/)
