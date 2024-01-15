@@ -10,6 +10,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift" alt="Swift">](https://swift.org/)
   [<img src="https://img.shields.io/badge/-C-lightgrey?style=flat-square&logo=c" alt="C">](https://www.iso.org/standard/74528.html)
   [<img src="https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp" alt="C#">](https://dotnet.microsoft.com/languages/csharp)
+  <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus" alt="C++">
   [<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" alt="Python">](https://www.python.org/)
 
 - Bases de Datos:
