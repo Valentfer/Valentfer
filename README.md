@@ -50,6 +50,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
 - [securesp32](https://github.com/Valentfer/securesp32)
 - [GestiApp](https://github.com/Valentfer/ProyecInter)
 - [UnDeepSpace](https://github.com/Valentfer/UnDeepSpace)
+- [Registro](https://github.com/Valentfer/Registro)
   
 ## Contáctame 
 - 🔗 - LinkedIn: [Valentín](https://www.linkedin.com/in/vffer)
