@@ -44,12 +44,6 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   <a href="https://registry.platformio.org/libraries/epsilonrt/RadioHead"><img src="https://badges.registry.platformio.org/packages/epsilonrt/library/RadioHead.svg" alt="PlatformIO Registry" /></a>
 
 
-[![Odoo](https://img.shields.io/badge/-Odoo-green?style=flat&logo=Odoo)](https://www.odoo.com/)
-[![Genesys Cloud](https://img.shields.io/badge/-Genesys%20Cloud-blue?style=flat&logo=Genesys)](https://www.genesys.com/)
-
-
-
-
 ## Proyectos: 🚀
 - [Ahora sí, Ahora No.](https://github.com/Valentfer/AhoraSiAhoraNo)
 - [AgendaSwift](https://github.com/Valentfer/AgendaSwift)
