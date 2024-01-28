@@ -34,7 +34,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona
   [<img src="https://img.shields.io/badge/-Google_Cloud-yellow?style=flat-square&logo=google-cloud" alt="Google Cloud">](https://cloud.google.com/)
   [<img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=dialogflow" alt="Dialogflow">](https://dialogflow.cloud.google.com/)
   [<img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" alt="Firebase">](https://firebase.google.com/)
-  [<img src="https://img.shields.io/badge/-GenesysCloud-orange?style=flat-square&logo=genesyscloud" alt="GenesysCloud">](https://www.genesyscloud.com/)
+  [<img src="https://img.shields.io/badge/-GenesysCloud-orange?style=flat-square&logo=genesyscloud" alt="GenesysCloud">](https://https://www.genesys.com/genesys-cloud/)
   [<img src="https://img.shields.io/badge/-Odoo-purple?style=flat-square&logo=odoo" alt="Odoo">](https://www.odoo.com/)
 
 - IDE:
