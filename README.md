@@ -1,7 +1,7 @@
 # Hola, soy Valentín 👋
 
 ## Sobre mí 👨‍💻 📚 ⚙️
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona el desarrollo de aplicaciones multiplataforma, seguridad, cloud, IoT... y es por esto por lo que siempre estoy en constante aprendizaje. 
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una pasión por la innovación tecnológica. Me especializo en el desarrollo de aplicaciones multiplataforma, seguridad informática, soluciones en la nube y tecnologías IoT. Mi compromiso con el aprendizaje continuo me ha llevado a adquirir habilidades en Java, Kotlin, Python, lo cual he aplicado en mis proyectos. Estoy buscando oportunidades donde pueda aplicar mis conocimientos para contribuir al éxito de proyectos tecnológicos y continuar creciendo profesionalmente. 
 
 ## Tecnologías 💻 📱 🌐 🎮
 - Lenguajes: 
