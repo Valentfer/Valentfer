@@ -39,7 +39,6 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una pasi
   [<img src="https://img.shields.io/badge/-Google_Cloud-yellow?style=flat-square&logo=google-cloud" alt="Google Cloud">](https://cloud.google.com/)
   [<img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=dialogflow" alt="Dialogflow">](https://dialogflow.cloud.google.com/)
   [<img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" alt="Firebase">](https://firebase.google.com/)
-  [![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)](https://cloud.google.com/dialogflow)
   [<img src="https://img.shields.io/badge/-GenesysCloud-orange?style=flat-square&logo=genesyscloud" alt="GenesysCloud">](https://www.genesys.com/es-mx/genesys-cloud)
 
 - ERP:
