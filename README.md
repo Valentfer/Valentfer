@@ -12,15 +12,18 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una pasi
   [<img src="https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp" alt="C#">](https://dotnet.microsoft.com/languages/csharp)
   <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus" alt="C++">
   [<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" alt="Python">](https://www.python.org/)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 - Bases de Datos:
   [<img src="https://img.shields.io/badge/-PostgreSQL-lightblue?style=flat-square&logo=postgresql" alt="PostgreSQL">](https://www.postgresql.org/)
   [<img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql" alt="MySQL">](https://www.mysql.com/)
   [<img src="https://img.shields.io/badge/-SQL%20Server-blue?style=flat-square&logo=microsoft-sql-server" alt="SQL Server">](https://www.microsoft.com/en-us/sql-server/)
   [<img src="https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite" alt="SQLite">](https://www.sqlite.org/index.html)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 <!--- ORM:
-  [<img src="https://img.shields.io/badge/-JPA-lightgrey?style=flat-square&logo=jpa" alt="JPA">](https://www.oracle.com/java/technologies/persistence-jpa.html)  -->
+  [<img src="https://img.shields.io/badge/-JPA-lightgrey?style=flat-square&logo=jpa" alt="JPA">](https://www.oracle.com/java/technologies/persistence-jpa.html) [![DevOps](https://img.shields.io/badge/-DevOps-2496ED?style=flat-square&logo=devops&logoColor=white)](https://www.atlassian.com/devops)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) -->
 
 - Framework:
   [<img src="https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate" alt="Hibernate">](https://hibernate.org//)
@@ -36,6 +39,7 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con una pasi
   [<img src="https://img.shields.io/badge/-Google_Cloud-yellow?style=flat-square&logo=google-cloud" alt="Google Cloud">](https://cloud.google.com/)
   [<img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=dialogflow" alt="Dialogflow">](https://dialogflow.cloud.google.com/)
   [<img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" alt="Firebase">](https://firebase.google.com/)
+  [![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)](https://cloud.google.com/dialogflow)
   [<img src="https://img.shields.io/badge/-GenesysCloud-orange?style=flat-square&logo=genesyscloud" alt="GenesysCloud">](https://www.genesys.com/es-mx/genesys-cloud)
 
 - ERP:
